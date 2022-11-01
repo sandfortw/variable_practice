@@ -10,3 +10,6 @@ float2 = 42.22
 
 sleepy = false
 hungry = true 
+
+first_name = "John"
+last_name = "Doe"
